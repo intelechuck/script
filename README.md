@@ -1,1 +1,1 @@
-thisversion=0.1
+thisversion=0.2
